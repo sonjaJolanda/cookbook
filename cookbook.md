@@ -1,4 +1,4 @@
-# 🍳 Lena, Theo und Sonjas Cookbook
+Na# 🍳 Lena, Theo und Sonjas Cookbook
 ToDo: vielleicht auch nach Jahreszeit sortieren?
 
 ## 📋 Inhaltsverzeichnis
@@ -37,7 +37,8 @@ ToDo: vielleicht auch nach Jahreszeit sortieren?
 - Endivien 
 - Giersch
 - Grünkohl
-
+- Mangold, Spinat
+- Süßkartoffeln
 
 ---
 
