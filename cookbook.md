@@ -32,6 +32,7 @@ ToDo: vielleicht auch nach Jahreszeit sortieren?
 - **Jodsalz** oder noch besser Algen mit Jod und Omega-3 🧂
 - **Brot backen!!** (Rezept von Kast?) 🍞
 - **Sauerkraut** 🥬
+- **Brennessel**
 
 ---
 
