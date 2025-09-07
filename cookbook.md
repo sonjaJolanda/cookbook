@@ -59,14 +59,90 @@ ToDo: vielleicht auch nach Jahreszeit sortieren?
 ## 🍽️ Hauptgerichte
 
 ### Suppen & Eintöpfe
-was
-#### 🍲 Türkische Linsensuppe 
-- 
 
-#### 🥗 Kichererbseneintopf mit Spinat
-- [Kichererbseneintopf mit Spinat](https://www.justspices.de/rezepte/kichererbseneintopf-mit-spinat.html)
-- Mit Räuchertofu statt Ei
-- Mit Brot servieren
+#### 🍲 Türkische Linsensuppe - Mercimek Çorbası
+
+![Bild einfügen](path/to/image.jpg)
+
+| 📊 **Portionen** | **Kochzeit** | 📊 **Nährwert** | **Beste Jahreszeit** |
+|------------------|--------------|------------------|----------------------|
+| 👥 3 Portionen | ⏱️ ca. 30 Minuten | 🥗 [noch ergänzen] | 🌱 [noch ergänzen] |
+
+
+<div style="display: flex; gap: 20px;">
+<div>
+
+- 250g rote Linsen
+- 30g Reis  
+- 1 mittelgroße Kartoffel
+- 1 Gelberübe
+- 1 Zwiebel
+- 2 Knoblauchzehen
+- 120ml passierte Tomaten
+- 1 EL Tomatenmark
+
+</div>
+<div>
+
+- 1,5l Wasser
+- Salz, Pfeffer
+- Gemüsebrühe
+- Olivenöl
+- 1-2 TL getrocknete Minze
+- 1 Zitrone
+- Chili nach Geschmack
+- Brot zum Servieren
+
+</div>
+</div>
+
+1. Kartoffel, Gelberübe und Zwiebel klein schneiden und in einem Topf 1-2 Min. anbraten
+2. Linsen und Reis gut waschen, dazugeben und weitere 2 Min. anbraten  
+3. Mit Wasser ablöschen und köcheln lassen, bis Kartoffeln und Linsen weich sind
+4. Kurz vor Ende der Kochzeit Knoblauch dazugeben und noch 5 Min. köcheln lassen
+5. Topf vom Herd nehmen, Gewürze und Tomatenmark hinzufügen
+6. Mit Handstabmixer alles pürieren und erneut kurz aufkochen
+7. Getrocknete Minze in Öl kurz anbraten und mit der Suppe vermischen
+8. Chiliflocken und Zitrone beim Servieren anrichten
+
+#### 🥗 [Kichererbseneintopf mit Spinat](https://www.justspices.de/rezepte/kichererbseneintopf-mit-spinat.html)
+
+![Bild einfügen](path/to/image.jpg)
+
+| 📊 **Portionen** | **Kochzeit** | 📊 **Nährwert** | **Beste Jahreszeit** |
+|------------------|--------------|------------------|----------------------|
+| 👥 3 Portionen | ⏱️ ca. 30 Minuten | 🥗 [noch ergänzen] | 🌱 [noch ergänzen] |
+
+<div style="display: flex; gap: 20px;">
+<div>
+
+- 1 Zwiebel
+- 3 Knoblauchzehen
+- 3 EL Olivenöl
+- 2 Tomaten
+- 2 Dosen Kichererbsen
+
+</div>
+<div>
+
+- 2 EL Tomatenmark
+- 800ml Gemüsebrühe
+- 300g Spinat, tiefgefroren
+- Räuchertofu
+- Brot
+
+</div>
+</div>
+
+1. Zwiebel + Knoblauch fein würfeln. Olivenöl in einer Pfanne erhitzen. 
+2. Tomaten waschen, entkernen und fein würfeln.
+3. Zwiebeln + Knoblauch bei mittlerer Hitze für ca. 3min anbraten. 
+4. Kichererbsen + Tomaten hinzufügen und 2min braten.
+5. Tomatenmark hinzufügen + unter ständigem rühren 1min lang mitgaren. 
+6. Nach dem das Gemüse eine Weile gebraten wurde, alles mit Gemüsebrühe ablöschen und für 30min köcheln lassen. Nach ca. 25min den Spinat hinzufügen.
+7. Tofu anbraten und am Ende dazu geben
+8. den gesamten Eintopf mit dem Gemüse Allrounder und 2 Prisen Salz abschmecken.
+9. Mit Brot servieren,
 
 #### 🍜 Gemüsesuppe a la Paul
 - Gelbe Rübe, Lauch, Maultasche, Sellerie, Zuckerschoten, Olivenöl, Muskat, Gemüsebrühe, Pfeffer
