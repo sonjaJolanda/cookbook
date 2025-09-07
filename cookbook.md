@@ -36,9 +36,10 @@ ToDo: vielleicht auch nach Jahreszeit sortieren?
 - Leinsamen, Chia
 - Endivien 
 - Giersch
-- Grünkohl
+- Grünkohl + Weißkohl
 - Mangold, Spinat
 - Süßkartoffeln
+- 
 
 ---
 
@@ -58,7 +59,7 @@ ToDo: vielleicht auch nach Jahreszeit sortieren?
 ## 🍽️ Hauptgerichte
 
 ### Suppen & Eintöpfe
-
+was
 #### 🍲 Türkische Linsensuppe 
 - 
 
