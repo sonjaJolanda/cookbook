@@ -36,6 +36,7 @@ ToDo: vielleicht auch nach Jahreszeit sortieren?
 - Leinsamen, Chia
 - Endivien 
 - Giersch
+- Grünkohl
 
 
 ---
