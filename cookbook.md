@@ -33,6 +33,10 @@ ToDo: vielleicht auch nach Jahreszeit sortieren?
 - **Brot backen!!** (Rezept von Kast?) 🍞
 - **Sauerkraut** 🥬
 - **Brennessel**
+- Leinsamen, Chia
+- Endivien 
+- Giersch
+
 
 ---
 
