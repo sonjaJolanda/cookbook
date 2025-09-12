@@ -1,19 +1,37 @@
-Na# 🍳 Lena, Theo und Sonjas Cookbook
+# 🍳 Mein Kochbuch
 ToDo: vielleicht auch nach Jahreszeit sortieren?
 
-## 📋 Inhaltsverzeichnis
 - [Allgemeine Ernährungstipps](#-allgemeine-ernährungstipps)
 - [Rezept-Ideen](#-rezept-ideen)
 - [Hauptgerichte](#-hauptgerichte)
-  - [Salate](#salate)
   - [Suppen & Eintöpfe](#suppen--eintöpfe)
+    - [Türkische Linsensuppe - Mercimek Çorbası](#-türkische-linsensuppe---mercimek-çorbası)
+    - [Kichererbseneintopf mit Spinat](#-kichererbseneintopf-mit-spinat)
+    - [Gemüsesuppe a la Paul](#-gemüsesuppe-a-la-paul)
+    - [Tomatensuppe](#-tomatensuppe)
+  - [Salate](#salate)
+    - [Felix Salat](#-felix-salat)
+    - [Limone-Salat](#-limone-salat)
+    - [Quinoa Salat](#-quinoa-salat)
   - [Asiatische Gerichte](#asiatische-gerichte)
+    - [Tofu-Zitronen-Kokosmilch](#-tofu-zitronen-kokosmilch)
+    - [Black Bean Noodles](#-black-bean-noodles)
+    - [Dumplings selber machen](#-dumplings-selber-machen)
+    - [Bibimbap](#-bibimbap)
+    - [Rosenkohl Asia-Style](#-rosenkohl-asia-style)
+    - [Orzo Gerichte](#-orzo-gerichte)
   - [Türkische & Mediterrane Küche](#türkische--mediterrane-küche)
+    - [Türkische Pasta](#-türkische-pasta)
+    - [Börek und Çiğ Köfte](#-börek-und-çiğ-köfte)
+    - [Baked Cauliflower](#-baked-cauliflower)
 - [Desserts](#-desserts)
+  - [Obstsalat](#obstsalat)
+  - [Mango Sticky Rice](#mango-sticky-rice-)
+  - [Ginger Pudding](#ginger-pudding-)
 
----
 
-## 🥗 Allgemeine Ernährungstipps
+
+## <span style="color: #87CEEB;">Allgemeine Ernährungstipps</span>
 - **8/16 Regel** → Intervallfasten ⏰
 - **Grüner Tee trinken** (oder auch schwarzen) 🍵
 - **Keine Säfte trinken** (oder Softdrinks) ❌
@@ -39,11 +57,8 @@ ToDo: vielleicht auch nach Jahreszeit sortieren?
 - Grünkohl + Weißkohl
 - Mangold, Spinat
 - Süßkartoffeln
-- 
 
----
-
-## 📝 Rezept-Ideen, die ich noch mal ausprobieren will
+## <span style="color: #87CEEB;">Rezept-Ideen, die ich noch mal ausprobieren will</span>
 - **Focaccia** → [Instagram-Link](https://www.instagram.com/reel/C3IvU_puAOn/?igsh=MW1uazgwN3IwZ3A3Zg==)
 - **Tabbouleh**
 - **Vegan Pho**
@@ -54,13 +69,11 @@ ToDo: vielleicht auch nach Jahreszeit sortieren?
 - **Korean Soft Tofu Stew**
 - Kohl gerichte
 
----
+## <span style="color: #87CEEB;">Hauptgerichte</span>
 
-## 🍽️ Hauptgerichte
+### <span style="color: #b896f7ff;">Suppen & Eintöpfe</span>
 
-### Suppen & Eintöpfe
-
-#### 🍲 Türkische Linsensuppe - Mercimek Çorbası
+#### <span style="color: #20B2AA;">🍲 Türkische Linsensuppe - Mercimek Çorbası</span>
 
 ![Bild einfügen](path/to/image.jpg)
 
@@ -105,7 +118,7 @@ ToDo: vielleicht auch nach Jahreszeit sortieren?
 7. Getrocknete Minze in Öl kurz anbraten und mit der Suppe vermischen
 8. Chiliflocken und Zitrone beim Servieren anrichten
 
-#### 🥗 [Kichererbseneintopf mit Spinat](https://www.justspices.de/rezepte/kichererbseneintopf-mit-spinat.html)
+#### <span style="color: #20B2AA;">🥗 [Kichererbseneintopf mit Spinat](https://www.justspices.de/rezepte/kichererbseneintopf-mit-spinat.html)</span>
 
 ![Bild einfügen](path/to/image.jpg)
 
@@ -142,77 +155,169 @@ ToDo: vielleicht auch nach Jahreszeit sortieren?
 6. Nach dem das Gemüse eine Weile gebraten wurde, alles mit Gemüsebrühe ablöschen und für 30min köcheln lassen. Nach ca. 25min den Spinat hinzufügen.
 7. Tofu anbraten und am Ende dazu geben
 8. den gesamten Eintopf mit dem Gemüse Allrounder und 2 Prisen Salz abschmecken.
-9. Mit Brot servieren,
+9. Mit Brot servieren.
 
-#### 🍜 Gemüsesuppe a la Paul
-- Gelbe Rübe, Lauch, Maultasche, Sellerie, Zuckerschoten, Olivenöl, Muskat, Gemüsebrühe, Pfeffer
+#### <span style="color: #20B2AA;">🍜 Gemüsesuppe a la Paul</span>
+![Bild einfügen](path/to/image.jpg)
 
-#### 🍅 Tomatensuppe
+| 📊 **Portionen** | **Kochzeit** | 📊 **Nährwert** | **Beste Jahreszeit** |
+|------------------|--------------|------------------|----------------------|
+| 👥 x Portionen | ⏱️ ca. 30 Minuten | 🥗 [noch ergänzen] | 🌱 [noch ergänzen] |
+
+<div style="display: flex; gap: 20px;">
+<div>
+
+- Gelberüben
+- Lauch
+- Maultaschen oder Tofu?
+- Sellerie
+
+</div>
+<div>
+
+- Zuckerschoten
+- Olivenöl, Muskat, Gemüsebrühe, Pfeffer
+- Brot
+
+</div>
+</div>
+
+1. Gelberüben, Sellerie, Zuckerschoten und Lauch waschen + schneiden
+2. Olivenöl in einem großen Topf erhitzen
+3. Gelberüben und Sellerie zuerst anbraten (ca. 3-4 Min.), da sie länger brauchen
+4. Lauch dazugeben und weitere 2-3 Min. mitbraten
+5. Mit Gemüsebrühe aufgießen und zum Kochen bringen
+6. Mit Muskat und Pfeffer (und Salz) würzen
+7. Ca. 15-20 Min. köcheln lassen, bis das Gemüse weich ist
+8. Zuckerschoten + Maultaschen (oder Tofu) in den letzten 5 Min. dazugeben
+9. Mit frischem Brot servieren
+
+#### <span style="color: #20B2AA;">🍅 Tomatensuppe</span>
 - 
 
----
+### <span style="color: #b896f7ff;">Salate</span>
 
-### Salate
+#### <span style="color: #20B2AA;">🥗 Felix Salat</span>
 
-#### 🥗 Felix Salat
+![Bild einfügen](path/to/image.jpg)
+
+| 📊 **Portionen** | **Kochzeit** | 📊 **Nährwert** | **Beste Jahreszeit** |
+|------------------|--------------|------------------|----------------------|
+| 👥 x Portionen | ⏱️ ca. 30 Minuten | 🥗 [noch ergänzen] | 🌱 [noch ergänzen] |
+
+<div style="display: flex; gap: 20px;">
+<div>
+
+- Pfirsich
+- Tofu 
+- Salat
+
+</div>
+<div>
+
+- Tomate
+- Agavendicksaft + Olivenöl + Pfeffer+ Sesam
+
+</div>
+</div>
+
 1. **Pfirsich** mit Agavendicksaft + Olivenöl + Pfeffer anbraten
 2. **Tofu** mit Stärke und Agavendicksaft vermischen und anbraten
-3. **Salat** hinzufügen
-4. **Tomate** oder ähnliches hinzufügen
-5. **Sesam** oder ähnliches als Topping
+3. **Salat** + **Tomate** oder ähnliches + **Sesam** hinzufügen
 
-#### 🍋 Limone-Salat
-- Fenchel, Walnüsse, Emmentaler (oder Tofu), Orange, Zwiebel
+#### <span style="color: #20B2AA;">🍋 Limone-Salat</span>
+![Bild einfügen](path/to/image.jpg)
 
-#### 🌾 Quinoa Salat
-- Quinoa, Feta oder Räuchertofu, Tomate, Paprika, Minze oder andere Kräuter, Gemüsebrühe, Zwiebel (rot), Gurke
-- Qunioa kochen mit der Gemüsebrühe
-- alles sehr klein schneiden oder zebröseln und vermischen
+| 📊 **Portionen** | **Kochzeit** | 📊 **Nährwert** | **Beste Jahreszeit** |
+|------------------|--------------|------------------|----------------------|
+| 👥 x Portionen | ⏱️ ca. 30 Minuten | 🥗 [noch ergänzen] | 🌱 [noch ergänzen] |
 
----
+<div style="display: flex; gap: 20px;">
+<div>
 
-### Asiatische Gerichte
+- Fenchel
+- Walnüsse
+- Emmentaler (oder Tofu)
 
-#### 🥥 Tofu-Zitronen-Kokosmilch
+</div>
+<div>
+
+- Orange
+- Zwiebel
+
+</div>
+</div>
+
+1. Alles klein schneiden und anmachen
+
+#### <span style="color: #20B2AA;">🌾 Quinoa Salat</span>
+![Bild einfügen](path/to/image.jpg)
+
+| 📊 **Portionen** | **Kochzeit** | 📊 **Nährwert** | **Beste Jahreszeit** |
+|------------------|--------------|------------------|----------------------|
+| 👥 x Portionen | ⏱️ ca. 30 Minuten | 🥗 [noch ergänzen] | 🌱 [noch ergänzen] |
+
+<div style="display: flex; gap: 20px;">
+<div>
+
+- Quinoa
+- Feta oder Räuchertofu
+- Tomate
+- Paprika
+
+</div>
+<div>
+
+- Gurke
+- Minze oder andere Kräuter
+- Gemüsebrühe, Zwiebel (rot)
+
+</div>
+</div>
+
+1. Qunioa kochen mit der Gemüsebrühe
+2. alles sehr klein schneiden oder zebröseln und vermischen
+
+
+
+### <span style="color: #b896f7ff;">Asiatische Gerichte</span>
+
+#### <span style="color: #20B2AA;">🥥 Tofu-Zitronen-Kokosmilch</span>
 - [Instagram-Link](https://www.instagram.com/reel/DJNRoI1JwOb/?igsh=cHA4cTVmdm13YXg0)
 
-#### 🍝 Black Bean Noodles
+#### <span style="color: #20B2AA;">🍝 Black Bean Noodles</span>
 - [Black Bean Noodles von Logan](https://www.instagram.com/reel/DBeo-Q7RvA-/?igsh=bWJpN3Q3djJ5djM=)
 
-#### 🥟 Dumplings selber machen
+#### <span style="color: #20B2AA;">🥟 Dumplings selber machen</span>
 - 
 
-#### 🍚 Bibimbap
+#### <span style="color: #20B2AA;">🍚 Bibimbap</span>
 - 
 
-#### 🥢 Rosenkohl Asia-Style
+#### <span style="color: #20B2AA;">🥢 Rosenkohl Asia-Style</span>
 - 
 
-#### 🍜 Orzo Gerichte
+#### <span style="color: #20B2AA;">🍜 Orzo Gerichte</span>
 - [Instagram-Link](https://www.instagram.com/reel/C71t0phpUAg/?igsh=Z2wzcW11azFtdDds)
 
----
+### <span style="color: #b896f7ff;">Türkische & Mediterrane Küche</span>
 
-### Türkische & Mediterrane Küche
-
-#### 🍝 Türkische Pasta
+#### <span style="color: #20B2AA;">🍝 Türkische Pasta</span>
 - 
 
-#### 🥟 Börek und Çiğ Köfte
+#### <span style="color: #20B2AA;">🥟 Börek und Çiğ Köfte</span>
 - [Çiğ Köfte](https://www.instagram.com/reel/CgAUGQ5qxJ9/?igsh=MTQ0OHduYnVoOWg1cA==)
 - [Spinat-Tomate-Feta-Börek](https://www.chefkoch.de/rezepte/2408351380405705/Spinat-Tomate-Feta-Boerek-vom-Blech.html)
 
-#### 🥦 Baked Cauliflower
+#### <span style="color: #20B2AA;">🥦 Baked Cauliflower</span>
 
----
+## <span style="color: #87CEEB;">Desserts</span>
 
-## 🍰 Desserts
-
-### Obstsalat
+#### <span style="color: #20B2AA;">Obstsalat</span>
 - 
 
-### Mango Sticky Rice 🥭 
+#### <span style="color: #20B2AA;">Mango Sticky Rice 🥭</span> 
 - 
 
-### Ginger Pudding 🫚 
+#### <span style="color: #20B2AA;">Ginger Pudding 🫚</span> 
 - **Rezept:** [Instagram-Link](https://www.instagram.com/reel/CSz7Wg9BfYd/?igsh=am40MmN3d280dGJm)
